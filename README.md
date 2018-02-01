@@ -1,4 +1,4 @@
-# Traffic-Pattern-Prediction
+# Traffic-Pattern-Prediction Date- 20th November 2017- Mckinsey Traffic Analysis (Analytics Vidya)
 
 # The problem statement was to help the government understand the traffic patterns of a city. The data was provided by Mckinsey. 
 Training data ----> 20 months past hourly traffic data (in numbers at Junction-1, Junction-2, Junction-3, Junction-4.)
